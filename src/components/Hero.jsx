@@ -36,7 +36,7 @@ function Hero() {
           </div>
         </div>
         <div className="w-full lg:w-1/2">
-          <motion.div initial="hidden" animate="visible" variants={containerVariants} className="flex flex-col items-center lg:items-start mt-10">
+          <motion.div initial="hidden" animate="visible" variants={containerVariants} className="flex flex-col items-left lg:items-start mt-10">
             <motion.h2 variants={childVariants} className="pb-2 text-5xl tracking-tighter">
               Nerea Hebles Molina
             </motion.h2>

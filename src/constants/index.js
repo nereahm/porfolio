@@ -5,6 +5,10 @@ import project4 from "../assets/projects/project-4.webp";
 import project5 from "../assets/projects/project-5.webp";
 import project6 from "../assets/projects/project-6.webp";
 import project7 from "../assets/projects/project-7.webp";
+import project8 from "../assets/projects/project-8.webp";
+import project9 from "../assets/projects/project-9.webp";
+import project12 from "../assets/projects/project-12.webp";
+
 
 
 export const HERO_CONTENT = `Soy especialista en diseño web, UX/UI y marketing digital con experiencia en optimización SEO y estrategias de conversión. Combino creatividad y tecnología para desarrollar sitios web atractivos, funcionales y orientados a resultados. Con conocimientos en herramientas como WordPress, Figma y Prestashop, así como en tecnologías front-end y marketing de rendimiento, ayudo a potenciar la presencia digital de marcas y e-commerce.`;
@@ -101,21 +105,21 @@ export const PROJECTS = {
     },
     {
       title: "Landing Page - Gimnasio (Mobile & Desktop)",
-      image: project4,
+      image: project8,
       description: "Diseño de una landing page adaptable para una cadena de gimnasios, optimizando la experiencia en móvil y escritorio.",
       technologies: ["Figma", "Adobe XD"],
       url:"https://www.figma.com/proto/xnJeb6WRGrUKFMvLs9S61K/Landing-gym?node-id=8-169&p=f&t=Wi8LEX4EQrf2tJQX-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
     },
     {
       title: "App Masaltos.com",
-      image: project1,
+      image: project9,
       description: "Diseño UX/UI de una app móvil para la tienda de calzado Masaltos.com, enfocada en experiencia de compra.",
       technologies: ["Figma", "Adobe XD"],
       url:"https://www.figma.com/proto/ykOI4GwvnZ0tJIuRTMyUQ3/Masaltos-app?node-id=1-1205&p=f&t=AfEVmIoHZREHmcsX-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A1419"
     },
     {
       title: "App Fast Food",
-      image: project2,
+      image: project1,
       description: "Aplicación para pedidos de comida rápida con interfaz optimizada para rapidez y usabilidad.",
       technologies: ["Figma", "Adobe XD"],
       url:"https://www.figma.com/proto/ksTOUwsfr2iGv0NoEF2Qmn/Fast-Food-App?node-id=2-3&p=f&t=YC8dQg8HQdfKr3ZX-0&scaling=contain&content-scaling=fixed&page-id=0%3A1"
@@ -125,19 +129,19 @@ export const PROJECTS = {
   marketing: [
     {
       title: "Diseño para RRSS",
-      image: project3,
+      image: project2,
       description: "Creación de contenido visual para redes sociales, incluyendo stories, posts y reels.",
       technologies: ["Canva", "Photoshop", "Illustrator"],
     },
     {
       title: "Publicidad Digital",
-      image: project4,
+      image: project12,
       description: "Diseño de campañas publicitarias para Meta Ads y Google Ads con enfoque en conversión.",
       technologies: ["Canva", "Photoshop", "Illustrator"],
     },
     {
       title: "Banners y Material Promocional",
-      image: project1,
+      image: project4,
       description: "Diseño de banners y creatividades para campañas de marketing digital.",
       technologies: ["Illustrator", "Photoshop"],
     },
