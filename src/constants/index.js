@@ -7,6 +7,7 @@ import project6 from "../assets/projects/project-6.webp";
 import project7 from "../assets/projects/project-7.webp";
 import project8 from "../assets/projects/project-8.webp";
 import project9 from "../assets/projects/project-9.webp";
+import project10 from "../assets/projects/project-10.webp";
 import project12 from "../assets/projects/project-12.webp";
 
 
@@ -119,7 +120,7 @@ export const PROJECTS = {
     },
     {
       title: "App Fast Food",
-      image: project1,
+      image: project10,
       description: "Aplicación para pedidos de comida rápida con interfaz optimizada para rapidez y usabilidad.",
       technologies: ["Figma", "Adobe XD"],
       url:"https://www.figma.com/proto/ksTOUwsfr2iGv0NoEF2Qmn/Fast-Food-App?node-id=2-3&p=f&t=YC8dQg8HQdfKr3ZX-0&scaling=contain&content-scaling=fixed&page-id=0%3A1"
