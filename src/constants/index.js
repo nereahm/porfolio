@@ -2,6 +2,10 @@ import project1 from "../assets/projects/project-1.webp";
 import project2 from "../assets/projects/project-2.webp";
 import project3 from "../assets/projects/project-3.webp";
 import project4 from "../assets/projects/project-4.webp";
+import project5 from "../assets/projects/project-5.webp";
+import project6 from "../assets/projects/project-6.webp";
+import project7 from "../assets/projects/project-7.webp";
+
 
 export const HERO_CONTENT = `Soy especialista en diseño web, UX/UI y marketing digital con experiencia en optimización SEO y estrategias de conversión. Combino creatividad y tecnología para desarrollar sitios web atractivos, funcionales y orientados a resultados. Con conocimientos en herramientas como WordPress, Figma y Prestashop, así como en tecnologías front-end y marketing de rendimiento, ayudo a potenciar la presencia digital de marcas y e-commerce.`;
 
@@ -74,13 +78,13 @@ export const PROJECTS = {
   wordpress: [
     {
       title: "Web de Vino y Pintura",
-      image: project1,
+      image: project5,
       description: "Página web desarrollada en WordPress para un negocio que combina catas de vino con sesiones de pintura.",
       technologies: ["WordPress", "Elementor", "SEO"],
     },
     {
       title: "Web para Asociación Breast Cancer Survivor Sevilla",
-      image: project2,
+      image: project6,
       description: "Sitio web con información sobre actividades, inscripciones y noticias del club.",
       technologies: ["WordPress", "Elementor", "SEO"],
       url:"https://bcssevilla.com/"
@@ -90,7 +94,7 @@ export const PROJECTS = {
   uxui: [
     {
       title: "Landing Page - Tienda de Café",
-      image: project3,
+      image: project7,
       description: "Diseño UX/UI de una landing page para una tienda de café, enfocada en branding y conversión.",
       technologies: ["Figma", "Adobe XD"],
       url:"https://www.figma.com/proto/O5t2edEggBgnV1g4yaGAY0/Syra-redise%C3%B1o?node-id=1-2&p=f&t=wdG7H8eSXskHfPOr-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2"
