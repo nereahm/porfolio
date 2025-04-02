@@ -8,8 +8,9 @@ import project7 from "../assets/projects/project-7.webp";
 import project8 from "../assets/projects/project-8.webp";
 import project9 from "../assets/projects/project-9.webp";
 import project10 from "../assets/projects/project-10.webp";
+import project11 from "../assets/projects/project-11.webp";
 import project12 from "../assets/projects/project-12.webp";
-
+import project13 from "../assets/projects/project-13.webp";
 
 
 export const HERO_CONTENT = `Diseñadora web especializada en UX/UI y desarrollo frontend, con experiencia en optimización SEO y marketing digital. Uso tecnologías como React y herramientas como Figma, WordPress o Prestashop para crear sitios web atractivos, funcionales y orientados a resultados. Además, tengo conocimientos en backend, lo que me permite integrar soluciones completas y mejorar la funcionalidad de los proyectos. Mi objetivo es potenciar la presencia digital de marcas y e-commerce mediante un diseño coherente, estratégico y gestión integral del mismo.`;
@@ -130,7 +131,7 @@ export const PROJECTS = {
   marketing: [
     {
       title: "Diseño para RRSS",
-      image: project2,
+      image: project11,
       description: "Creación de contenido visual para redes sociales, incluyendo stories, posts y reels.",
       technologies: ["Canva", "Photoshop", "CapCut"],
     },
@@ -142,7 +143,7 @@ export const PROJECTS = {
     },
     {
       title: "Banners y material promocional",
-      image: project4,
+      image: project13,
       description: "Diseño de banners y creatividades para campañas de marketing digital y web.",
       technologies: ["Canva", "Photoshop"],
     },
