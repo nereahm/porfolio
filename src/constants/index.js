@@ -12,7 +12,7 @@ import project12 from "../assets/projects/project-12.webp";
 
 
 
-export const HERO_CONTENT = `Soy especialista en diseño web, UX/UI y marketing digital con experiencia en optimización SEO y estrategias de conversión. Combino creatividad y tecnología para desarrollar sitios web atractivos, funcionales y orientados a resultados. Con conocimientos en herramientas como WordPress, Figma y Prestashop, así como en tecnologías front-end y marketing de rendimiento, ayudo a potenciar la presencia digital de marcas y e-commerce.`;
+export const HERO_CONTENT = `Diseñadora web especializada en UX/UI y desarrollo frontend, con experiencia en optimización SEO y marketing digital. Uso tecnologías como React y herramientas como Figma, WordPress o Prestashop para crear sitios web atractivos, funcionales y orientados a resultados. Además, tengo conocimientos en backend, lo que me permite integrar soluciones completas y mejorar la funcionalidad de los proyectos. Mi objetivo es potenciar la presencia digital de marcas y e-commerce mediante un diseño coherente, estratégico y gestión integral del mismo.`;
 
 export const ABOUT_TEXT = `Soy una profesional apasionada por el diseño web y la experiencia de usuario, con un fuerte enfoque en la optimización y el rendimiento digital. Con formación en marketing y desarrollo web, he trabajado en la creación y optimización de sitios para e-commerce, implementando estrategias de SEO y campañas publicitarias en Meta Ads. Disfruto diseñando interfaces intuitivas y visualmente atractivas, utilizando herramientas como Figma, Adobe XD y WordPress, así como tecnologías como HTML, CSS y JavaScript.`;
 
@@ -21,14 +21,14 @@ export const EXPERIENCES = [
     year: "2024 - Presente",
     role: "Especialista en marketing digital y gestión de e-commerce",
     company: "Masaltos.com",
-    description: `Diseño y optimización de e-commerce con estrategias UX/UI para mejorar la conversión. Gestión de campañas de email marketing y Meta Ads, además de rediseño de secciones clave del sitio web.`,
+    description: `Diseño y optimización de e-commerce con estrategias UX/UI para mejorar la conversión. Gestión de campañas de email marketing y Meta Ads, creación de creatividades además de rediseño de secciones clave del sitio web.`,
     technologies: ["WordPress", "Prestashop", "SEO", "Meta Ads", "Google Analytics", "FileZilla"],
   },
   {
     year: "2023",
     role: "Asistente de marketing digital",
     company: "Berner Agency",
-    description: `Gestión de contenido para redes sociales, diseño gráfico y campañas de email marketing. Uso de herramientas como Canva y Metricool para la optimización de estrategias.`,
+    description: `Gestión de contenido para redes sociales, diseño gráfico y campañas de email marketing. Uso de herramientas como Canva y Metricool para la optimización de estrategias y redacción de informes.`,
     technologies: ["Canva", "Metricool", "OnlyPut"],
   },
   {
@@ -42,7 +42,7 @@ export const EXPERIENCES = [
     year: "2023",
     role: "Auxiliar administrativo",
     company: "Ayuntamiento Cañada Rosal",
-    description: `Gestión de contenido en redes sociales, monitoreo de la competencia y mantenimiento de plataformas digitales.`,
+    description: `Gestión de contenido en redes sociales, monitoreo y mantenimiento de plataformas digitales.`,
     technologies: ["Excel", "Paquete Office", "RRSS"],
   },
 ];
@@ -105,7 +105,7 @@ export const PROJECTS = {
       url:"https://www.figma.com/proto/O5t2edEggBgnV1g4yaGAY0/Syra-redise%C3%B1o?node-id=1-2&p=f&t=wdG7H8eSXskHfPOr-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2"
     },
     {
-      title: "LWeb - Gimnasio (Mobile & Desktop)",
+      title: "Web - Gimnasio (Mobile & Desktop)",
       image: project8,
       description: "Diseño web adaptable para un gimnasio local, optimizando la experiencia en móvil y escritorio.",
       technologies: ["Figma", "Photoshop"],
