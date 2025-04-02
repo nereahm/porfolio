@@ -60,7 +60,7 @@ export const PROJECTS = {
     {
       title: "Landing Page - App Triage",
       image: project2,
-      description: "Landing page para una app de gestión de emergencias médicas, optimizada para conversión.",
+      description: "Landing page para una app que está diseñada para ayudar a los usuarios a gestionar y organizar sus bandejas de entrada de correo electrónico de manera más eficiente.",
       technologies: ["HTML", "CSS", "JavaScript", "React"],
       url:"https://react-ten-gamma-39.vercel.app/"
     },
@@ -72,9 +72,9 @@ export const PROJECTS = {
       url:"https://soundsafari-seven.vercel.app/"
     },
     {
-      title: "Web con Frontend y Backend",
+      title: "Web Adogtame",
       image: project4,
-      description: "Sitio web desarrollado con React y Node.js. Actualmente funcionando solo el frontend por falta de base de datos.",
+      description: "Sitio web para adoptar animales desarrollado con React y Node.js. Actualmente funcionando solo el frontend por falta de base de datos.",
       technologies: ["React", "Node.js", "Express"],
       url:"https://react-proyecto-final-seven.vercel.app/"
     },
@@ -84,14 +84,14 @@ export const PROJECTS = {
     {
       title: "Web de Vino y Pintura",
       image: project5,
-      description: "Página web desarrollada en WordPress para un negocio que combina catas de vino con sesiones de pintura.",
+      description: "Eccomerce desarrollada en WordPress para un negocio que combina vino con sesiones de pintura.",
       technologies: ["WordPress", "Elementor", "SEO"],
     },
     {
       title: "Web para Asociación Breast Cancer Survivor Sevilla",
       image: project6,
       description: "Sitio web con información sobre actividades, inscripciones y noticias del club.",
-      technologies: ["WordPress", "Elementor", "SEO"],
+      technologies: ["WordPress", "Elementor", "SEO", "HTML"],
       url:"https://bcssevilla.com/"
     },
   ],
@@ -100,22 +100,22 @@ export const PROJECTS = {
     {
       title: "Landing Page - Tienda de Café",
       image: project7,
-      description: "Diseño UX/UI de una landing page para una tienda de café, enfocada en branding y conversión.",
-      technologies: ["Figma", "Adobe XD"],
+      description: "Diseño UX/UI de una landing page para una tienda de café, enfocada en branding y conversión de sus principales productos.",
+      technologies: ["Figma"],
       url:"https://www.figma.com/proto/O5t2edEggBgnV1g4yaGAY0/Syra-redise%C3%B1o?node-id=1-2&p=f&t=wdG7H8eSXskHfPOr-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2"
     },
     {
-      title: "Landing Page - Gimnasio (Mobile & Desktop)",
+      title: "LWeb - Gimnasio (Mobile & Desktop)",
       image: project8,
-      description: "Diseño de una landing page adaptable para una cadena de gimnasios, optimizando la experiencia en móvil y escritorio.",
-      technologies: ["Figma", "Adobe XD"],
+      description: "Diseño web adaptable para un gimnasio local, optimizando la experiencia en móvil y escritorio.",
+      technologies: ["Figma", "Photoshop"],
       url:"https://www.figma.com/proto/xnJeb6WRGrUKFMvLs9S61K/Landing-gym?node-id=8-169&p=f&t=Wi8LEX4EQrf2tJQX-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
     },
     {
       title: "App Masaltos.com",
       image: project9,
       description: "Diseño UX/UI de una app móvil para la tienda de calzado Masaltos.com, enfocada en experiencia de compra.",
-      technologies: ["Figma", "Adobe XD"],
+      technologies: ["Figma", "Canva"],
       url:"https://www.figma.com/proto/ykOI4GwvnZ0tJIuRTMyUQ3/Masaltos-app?node-id=1-1205&p=f&t=AfEVmIoHZREHmcsX-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A1419"
     },
     {
@@ -132,19 +132,19 @@ export const PROJECTS = {
       title: "Diseño para RRSS",
       image: project2,
       description: "Creación de contenido visual para redes sociales, incluyendo stories, posts y reels.",
-      technologies: ["Canva", "Photoshop", "Illustrator"],
+      technologies: ["Canva", "Photoshop", "CapCut"],
     },
     {
       title: "Publicidad Digital",
       image: project12,
       description: "Diseño de campañas publicitarias para Meta Ads y Google Ads con enfoque en conversión.",
-      technologies: ["Canva", "Photoshop", "Illustrator"],
+      technologies: ["Canva", "Photoshop"],
     },
     {
       title: "Banners y Material Promocional",
       image: project4,
-      description: "Diseño de banners y creatividades para campañas de marketing digital.",
-      technologies: ["Illustrator", "Photoshop"],
+      description: "Diseño de banners y creatividades para campañas de marketing digital y web.",
+      technologies: ["Canva", "Photoshop"],
     },
   ],
 };
