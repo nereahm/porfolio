@@ -88,7 +88,7 @@ export const PROJECTS = {
       technologies: ["WordPress", "Elementor", "SEO"],
     },
     {
-      title: "Web para Asociación Breast Cancer Survivor Sevilla",
+      title: "Web para asociación Breast Cancer Survivor Sevilla",
       image: project6,
       description: "Sitio web con información sobre actividades, inscripciones y noticias del club.",
       technologies: ["WordPress", "Elementor", "SEO", "HTML"],
@@ -98,7 +98,7 @@ export const PROJECTS = {
   
   uxui: [
     {
-      title: "Landing Page - Tienda de Café",
+      title: "Landing Page - Tienda Syra",
       image: project7,
       description: "Diseño UX/UI de una landing page para una tienda de café, enfocada en branding y conversión de sus principales productos.",
       technologies: ["Figma"],
@@ -135,13 +135,13 @@ export const PROJECTS = {
       technologies: ["Canva", "Photoshop", "CapCut"],
     },
     {
-      title: "Publicidad Digital",
+      title: "Publicidad digital",
       image: project12,
       description: "Diseño de campañas publicitarias para Meta Ads y Google Ads con enfoque en conversión.",
       technologies: ["Canva", "Photoshop"],
     },
     {
-      title: "Banners y Material Promocional",
+      title: "Banners y material promocional",
       image: project4,
       description: "Diseño de banners y creatividades para campañas de marketing digital y web.",
       technologies: ["Canva", "Photoshop"],
