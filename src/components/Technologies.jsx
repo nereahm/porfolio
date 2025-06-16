@@ -19,6 +19,8 @@ import {
   SiGoogletagmanager,
   SiMeta,
   SiMailchimp,
+  SiAngular,
+  SiPhp,
 } from "react-icons/si";
 import { Tooltip } from "react-tooltip";
 import "react-tooltip/dist/react-tooltip.css";
@@ -47,6 +49,8 @@ const Technologies = () => {
     { id: "css", component: <SiCss3 className="text-7xl text-blue-500" />, name: "CSS", duration: 5 },
     { id: "javascript", component: <SiJavascript className="text-7xl text-yellow-500" />, name: "JavaScript", duration: 3 },
     { id: "react", component: <RiReactjsLine className="text-7xl text-cyan-500" />, name: "React", duration: 6 },
+    { id: "angular", component: <SiAngular className="text-7xl text-red-600" />, name: "Angular", duration: 4 },
+    { id: "php", component: <SiPhp className="text-7xl text-indigo-500" />, name: "PHP", duration: 5 },
     { id: "nodejs", component: <SiNodedotjs className="text-7xl text-green-500" />, name: "Node.js", duration: 4 },
     { id: "vite", component: <SiVite className="text-7xl text-purple-500" />, name: "Vite+", duration: 5 },
     { id: "wordpress", component: <SiWordpress className="text-7xl text-blue-700" />, name: "WordPress", duration: 3 },
