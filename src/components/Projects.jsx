@@ -17,7 +17,7 @@ function Projects() {
         <div key={category} className="mb-12">
           {/* TÍTULO DE LA CATEGORÍA */}
           <h3 className="text-3xl font-bold mt-10 mb-4 capitalize">
-            {category === "frontend" && "🌐 Desarrollo Frontend"}
+            {category === "frontend" && "🌐 Desarrollo Web"}
             {category === "wordpress" && "🖥️ WordPress & CMS"}
             {category === "uxui" && "🎨 UX/UI & Diseño"}
           </h3>
