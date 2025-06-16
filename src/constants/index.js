@@ -71,16 +71,25 @@ export const PROJECTS = {
       description: "Web sobre festivales de música creada con HTML,CSS y JavaScript",
       technologies: ["HTML", "CSS", "JavaScript"],
       url:"https://soundsafari-seven.vercel.app/"
-    },
+    }
+  ],
+    fullstack: [
     {
       title: "Web Adogtame",
       image: project4,
       description: "Sitio web para adoptar animales desarrollado con React y Node.js. Actualmente funcionando solo el frontend por falta de base de datos.",
       technologies: ["React", "Node.js", "Express"],
-      url:"https://react-proyecto-final-seven.vercel.app/"
+      url: "https://react-proyecto-final-seven.vercel.app/"
     },
+    {
+      title: "Blog en PHP",
+      image: project11,
+      description: "Blog desarrollado desde cero con PHP y MySQL. Incluye gestión de publicaciones, edición, eliminación y sistema de comentarios.",
+      technologies: ["PHP", "MySQL", "HTML", "CSS"],
+      url: 'https://github.com/nereahm/php',
+    }
   ],
-  
+
   wordpress: [
     {
       title: "Web de Vino y Pintura",
