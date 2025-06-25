@@ -87,7 +87,14 @@ export const PROJECTS = {
       description: "Blog desarrollado desde cero con PHP y MySQL. Incluye gestión de publicaciones, edición, eliminación y sistema de comentarios.",
       technologies: ["PHP", "MySQL", "HTML", "CSS"],
       url: 'https://github.com/nereahm/php',
-    }
+    },
+      {
+    title: "Image Social",
+    image: projectImageSocial,
+    description: "Mini red social para subir imágenes con registro, login y gestión de perfiles. Desarrollada con Laravel, PHP y MySQL.",
+    technologies: ["Laravel", "PHP", "MySQL", "Blade", "Bootstrap"],
+    url: "https://github.com/nereahm/image-social"
+  },
   ],
 
   wordpress: [
