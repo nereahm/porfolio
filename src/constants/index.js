@@ -90,7 +90,7 @@ export const PROJECTS = {
     },
       {
     title: "Image Social",
-    image: projectImageSocial,
+    image: project1,
     description: "Mini red social para subir imágenes con registro, login y gestión de perfiles. Desarrollada con Laravel, PHP y MySQL.",
     technologies: ["Laravel", "PHP", "MySQL", "Blade", "Bootstrap"],
     url: "https://github.com/nereahm/image-social"
