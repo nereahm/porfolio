@@ -59,13 +59,6 @@ export const PROJECTS = {
       url:"https://todolist-hazel-mu.vercel.app/"
     },
     {
-      title: "Landing Page - App Triage",
-      image: project2,
-      description: "Landing page para una app que está diseñada para ayudar a los usuarios a gestionar y organizar sus bandejas de entrada de correo electrónico de manera más eficiente.",
-      technologies: ["HTML", "CSS", "JavaScript", "React"],
-      url:"https://react-ten-gamma-39.vercel.app/"
-    },
-    {
       title: "Web SoundSafari",
       image: project3,
       description: "Web sobre festivales de música creada con HTML,CSS y JavaScript",
@@ -111,6 +104,13 @@ export const PROJECTS = {
       technologies: ["WordPress", "Elementor", "SEO", "HTML"],
       url:"https://bcssevilla.com/"
     },
+    {
+      title: "Web Milunayunsol",
+      image: project1,
+      description: "Mejora integral de SEO, optimización de rendimiento, ajustes de diseño y diversas integraciones, incluyendo email marketing",
+      technologies: ["Prestashop", "Filezilla", "SEO", "HTML", "JavaScript"],
+      url:"https://milunayunsol.com/"
+    },
   ],
   
   uxui: [
@@ -141,6 +141,13 @@ export const PROJECTS = {
       description: "Aplicación para pedidos de comida rápida con interfaz optimizada para rapidez y usabilidad.",
       technologies: ["Figma", "Adobe XD"],
       url:"https://www.figma.com/proto/ksTOUwsfr2iGv0NoEF2Qmn/Fast-Food-App?node-id=2-3&p=f&t=YC8dQg8HQdfKr3ZX-0&scaling=contain&content-scaling=fixed&page-id=0%3A1"
+    },
+    {
+      title: "Landing Agencia marketign",
+      image: project2,
+      description: "Diseño UX/UI de una landing page para una agencia de marketing junto a su Design sistem",
+      technologies: ["Figma"],
+      url:"https://www.figma.com/design/Zaau3yWfc9u1Uh6PuIKzjD/Landing-Agencia?node-id=4-377&t=qowESlqi6p9kOI1O-1"
     },
   ],
   
