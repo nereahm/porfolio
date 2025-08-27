@@ -143,7 +143,7 @@ export const PROJECTS = {
       url:"https://www.figma.com/proto/ksTOUwsfr2iGv0NoEF2Qmn/Fast-Food-App?node-id=2-3&p=f&t=YC8dQg8HQdfKr3ZX-0&scaling=contain&content-scaling=fixed&page-id=0%3A1"
     },
     {
-      title: "Landing Agencia marketign",
+      title: "Landing Agencia marketing",
       image: project2,
       description: "Diseño UX/UI de una landing page para una agencia de marketing junto a su Design sistem",
       technologies: ["Figma"],
