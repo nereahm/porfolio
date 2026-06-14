@@ -18,34 +18,41 @@ export const HERO_CONTENT = `Diseñadora web especializada en UX/UI y desarrollo
 export const ABOUT_TEXT = `Soy una profesional apasionada por el diseño web y la experiencia de usuario, con un fuerte enfoque en la optimización y el rendimiento digital. Con formación en marketing y desarrollo web, he trabajado en la creación y optimización de sitios para e-commerce, implementando estrategias de SEO y campañas publicitarias en Meta Ads. Disfruto diseñando interfaces intuitivas y visualmente atractivas, utilizando herramientas como Figma, Adobe XD y WordPress, así como tecnologías como HTML, CSS y JavaScript.`;
 
 export const EXPERIENCES = [
-  {
-    year: "2024 - Presente",
-    role: "Especialista en marketing digital y gestión de e-commerce",
-    company: "Masaltos.com",
-    description: `Diseño y optimización de e-commerce con estrategias UX/UI para mejorar la conversión. Gestión de campañas de email marketing y Meta Ads, creación de creatividades además de rediseño de secciones clave del sitio web.`,
-    technologies: ["WordPress", "Prestashop", "SEO", "Meta Ads", "Google Analytics", "FileZilla"],
-  },
-  {
-    year: "2023",
-    role: "Asistente de marketing digital",
-    company: "Berner Agency",
-    description: `Gestión de contenido para redes sociales, diseño gráfico y campañas de email marketing. Uso de herramientas como Canva y Metricool para la optimización de estrategias y redacción de informes.`,
-    technologies: ["Canva", "Metricool", "OnlyPut"],
-  },
-  {
-    year: "2023",
-    role: "Asistente dpto. marketing y comunicación",
-    company: "Evirom",
-    description: `Creación de contenido digital, campañas de posicionamiento SEO/SEM y gestión de newsletters con diseño responsivo.`,
-    technologies: ["SEO", "SEM", "WordPress", "Google Ads", "RRSS", "Email marketing"],
-  },
-  {
-    year: "2023",
-    role: "Auxiliar administrativo",
-    company: "Ayuntamiento Cañada Rosal",
-    description: `Gestión de contenido en redes sociales, monitoreo y mantenimiento de plataformas digitales.`,
-    technologies: ["Excel", "Paquete Office", "RRSS"],
-  },
+{
+year: "Oct 2025 - Presente",
+role: "Diseñadora Web UX/UI",
+company: "Mood Marketing",
+description: "Diseño y desarrollo de interfaces web centradas en experiencia de usuario y conversión. Creación de wireframes, prototipos y diseños responsive optimizados para mejorar la usabilidad y el rendimiento digital de clientes. Colaboración en proyectos de branding digital, diseño visual y optimización de experiencia en entornos e-commerce.",
+technologies: ["Figma", "WordPress", "Elementor", "HTML", "CSS", "UX/UI", "Responsive Design"],
+},
+{
+year: "2024 - Oct 2025",
+role: "Especialista en E-commerce, CRO y Marketing Digital",
+company: "Masaltos.com",
+description: "Optimización de e-commerce enfocada en CRO y experiencia de usuario, mejorando la navegación, usabilidad y conversión del sitio web. Diseño y rediseño de secciones estratégicas aplicando principios UX/UI orientados a aumentar ventas y retención. Gestión de campañas de email marketing y Meta Ads, creación de creatividades digitales y análisis de rendimiento para la mejora continua del funnel de conversión.",
+technologies: ["WordPress", "Prestashop", "CRO", "UX/UI", "SEO", "Meta Ads", "Google Analytics", "Email Marketing", "FileZilla"],
+},
+{
+year: "2023",
+role: "Asistente de Marketing Digital",
+company: "Berner Agency",
+description: "Gestión de contenido para redes sociales, diseño de creatividades digitales y apoyo en campañas de email marketing. Optimización de estrategias de comunicación y análisis de métricas para mejorar el rendimiento de campañas digitales.",
+technologies: ["Canva", "Metricool", "OnlyPut", "Email Marketing", "RRSS"],
+},
+{
+year: "2023",
+role: "Asistente dpto. Marketing y Comunicación",
+company: "Evirom",
+description: "Creación de contenido digital y apoyo en campañas SEO/SEM para mejorar el posicionamiento online de la marca. Diseño y envío de newsletters responsive orientadas a engagement y captación.",
+technologies: ["SEO", "SEM", "WordPress", "Google Ads", "RRSS", "Email Marketing"],
+},
+{
+year: "2023",
+role: "Auxiliar Administrativo",
+company: "Ayuntamiento Cañada Rosal",
+description: "Gestión y actualización de contenido digital, soporte administrativo y mantenimiento de plataformas y canales de comunicación institucional.",
+technologies: ["Excel", "Paquete Office", "RRSS"],
+}
 ];
 
 
